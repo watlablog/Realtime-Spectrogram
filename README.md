@@ -5,9 +5,10 @@ https://watlab-blog.com/2024/07/14/realtime-spectrogram/
 
 The spectrogram created in this project looks like the image below.
 ![STFT](https://watlab-blog.com/wp-content/uploads/2019/10/spectrogram-a.png)
-Spectrograms can be drawn in real time.
-<iframe width="600" height="400" src="https://www.youtube.com/embed/YJsKM3-JJLA" frameborder="0" allowfullscreen></iframe>
 
+Spectrograms can be drawn in real time.
+
+[![YouTube Movie](https://www.youtube.com/embed/YJsKM3-JJLA/0.jpg)](https://www.youtube.com/embed/YJsKM3-JJLA)
 
 
 ## About Spectrogram
